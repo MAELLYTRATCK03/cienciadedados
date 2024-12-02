@@ -5,6 +5,7 @@
   --primary-color: #FFF6EA;
   --secundary-color: #FEECB3;
   --font: Gluten;
+}
   body {
     background-color: var(--bg-color);
     color: var(--primary-color);
